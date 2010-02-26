@@ -1,0 +1,1 @@
+Search.setIndex({desctypes:{},terms:{recommend_book:0,index:[],search:[],welcom:0,foobar:[],modul:[],tabl:[],indic:[],content:0,"\u9054\u4eba\u30d7\u30ed\u30b0\u30e9\u30de\u30fc":[0,1],titl:[],document:0,page:[]},titles:["Welcome to recommend_book&#8217;s documentation!","\u9054\u4eba\u30d7\u30ed\u30b0\u30e9\u30de\u30fc"],modules:{},descrefs:{},filenames:["index","tatsujin"]})
